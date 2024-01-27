@@ -1,0 +1,20 @@
+
+
+*  {
+  font-family: 'Merriweather Sans' !important;
+}
+
+ul li::marker {
+  color: #52D452;
+}
+ 
+
+
+a:visited {
+  color: #249232 ;
+}
+
+a:link {
+  color: #2434c5;
+}
+
